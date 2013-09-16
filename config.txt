@@ -1,5 +1,5 @@
 10000
-http://www.example.com/
+http://cubery.jp/
 http://www.google.co.jp/
 http://www.yahoo.co.jp/
 http://www.gnu.org/
