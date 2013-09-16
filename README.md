@@ -6,6 +6,7 @@
     
 # test run
 
+    cd ff-slideshow-1.xx
     cp config.txt ~/Desktop
     cp -a www ~/Desktop
     cfx run
