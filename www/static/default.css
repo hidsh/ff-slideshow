@@ -1,0 +1,8 @@
+table {width:800px}
+th {text-align:left; color:white; Background-color:gray}
+td#title {font-size:x-large; text-align:center}
+td#desc {padding:30px 0;}
+th#price {padding:30px 10px; width:6em}
+td#price {padding:30px 10px;}
+th#comment {padding:0 10px;}
+

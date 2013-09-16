@@ -1,6 +1,7 @@
-10000
+5000
+file:///Users/g/Desktop/www/page0.html
+file:///Users/g/Desktop/www/page1.html
+file:///Users/g/Desktop/www/page2.html
+file:///Users/g/Desktop/www/page3.html
 http://cubery.jp/
-http://www.google.co.jp/
-http://www.yahoo.co.jp/
-http://www.gnu.org/
 
