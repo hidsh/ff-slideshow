@@ -1,14 +1,16 @@
 # prerequisite
 
-- Firefox > 23
+- Firefox >= 23
 - [Add-on sdk](https://dev.mozilla.jp/addon-sdk-docs/dev-guide/tutorials/installation.html)
 
 
 
 # test run
 
-    ln -s config.txt ~/Desktop
+    cp config.txt ~/Desktop
     cfx run
+
+# setting
 
     edit `~/Desktop/config.txt` in order to configure slideshow
 
