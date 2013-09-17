@@ -27,7 +27,7 @@
 
 1. launch Firefox > file > open > slideshow.xpi
 
-1. install [kiosk](https://addons.mozilla.org/ja/firefox/addon/r-kiosk/?src=search)
+1. install [R-Kiosk](https://addons.mozilla.org/ja/firefox/addon/r-kiosk/?src=search)
 
 1. reboot Firefox
 
