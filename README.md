@@ -12,7 +12,7 @@
 
 # setting
 
-    edit `~/Desktop/config.txt` in order to configure slideshow
+edit `~/Desktop/config.txt` in order to configure slideshow
 
     10000                       <-- time interval [msec]   e.g. 10 sec --> 10000
     http://www.example.com/     <-- visit pages
