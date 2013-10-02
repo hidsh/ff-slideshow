@@ -1,4 +1,4 @@
-# What is this
+# What is this?
 
 An extension for slide show on firefox
 
