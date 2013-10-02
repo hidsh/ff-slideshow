@@ -1,18 +1,22 @@
-![movie](http://www.youtube.com/watch?v=HvxzAbH4egc)
+# What is this
 
-# prerequisite
+An extension for slide show on firefox
+
+[YouTube](http://www.youtube.com/watch?v=HvxzAbH4egc)
+
+# Prerequisite
 
 - Firefox >= 23
 - [Add-on sdk](https://dev.mozilla.jp/addon-sdk-docs/dev-guide/tutorials/installation.html)
 
 
 
-# test run
+# Test run
 
     cp config.txt ~/Desktop
     cfx run
 
-# setting
+# Setting
 
 edit `~/Desktop/config.txt` in order to configure slideshow
 
@@ -23,7 +27,7 @@ edit `~/Desktop/config.txt` in order to configure slideshow
     http://www.gnu.org/
     
 
-# run under the production environment
+# Run under the production environment
 
 1. export extension: `cfx xpi`
 
@@ -35,6 +39,6 @@ edit `~/Desktop/config.txt` in order to configure slideshow
 
 
 
-# note
+# Note
 
 open console: Command + Shift + j [Mac]
